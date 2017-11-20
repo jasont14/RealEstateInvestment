@@ -1,8 +1,8 @@
 ﻿/*
  * RealEstateProfitCalculator
  * J.Thatcher
- * Simple Console App to calculate profits from real estate property
- * Class, Properties, Methods, Overloaded Constructor, 
+ * Simple Console App to calculate earning from real estate property
+ * Class, Fields, Properties, Methods, Overloaded Constructor, etc.
  */
 
 

@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+ * RealEstateProfitCalculator
+ * J.Thatcher
+ * Simple Console App to calculate profits from real estate property
+ * Class, Properties, Methods, Overloaded Constructor, 
+ */
+
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

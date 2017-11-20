@@ -47,19 +47,22 @@ namespace RealEstateProfitCalculator
 
         public RealEstateInvestment(string address, int year, double price)
         {
-            streetAddress = address;
-            purchasePrice = price;
-            yearBuilt = year;
+            StreetAddress = address;
+            PurchasePrice = price;
+            YearBuilt = year;
         }
 
         public RealEstateInvestment(int year, double price)
         {
+            YearBuilt = year;
+            PurchasePrice = price;
 
         }
 
         public RealEstateInvestment(string address, double price)
         {
-
+            StreetAddress = address;
+            PurchasePrice = price;
         }
 
         public double GetMonthlyEarnings()
